@@ -1,0 +1,24 @@
+{
+    "name": "iamprogrammerlk/_iamgithubtester",
+    "description": "_IamGitHubTester",
+	"keywords": ["_iamgithubtester","iamprogrammerlk"],
+    "homepage": "https://github.com/iamprogrammerlk/_iamgithubtester",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "IamProgrammerlk",
+            "email": "iamprogrammerlk@gmail.com",
+			"homepage": "https://iamprogrammerlk.blogspot.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    },
+	"autoload": {
+        "psr-0": {
+            "IamProgrammerlk\\IamFirebasePHP": "IamSource/IamFirebasePHP"
+        }
+    }
+}
