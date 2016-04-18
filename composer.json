@@ -1,8 +1,8 @@
 {
-    "name": "iamprogrammerlk/_iamgithubtester",
-    "description": "_IamGitHubTester",
-	"keywords": ["_iamgithubtester","iamprogrammerlk"],
-    "homepage": "https://github.com/iamprogrammerlk/_iamgithubtester",
+    "name": "IamProgrammerlk/IamGitHubTester",
+    "description": "IamGitHubTester",
+	"keywords": ["iamgithubtester","iamprogrammerlk"],
+    "homepage": "https://github.com/IamProgrammerlk/IamGitHubTester",
     "type": "library",
     "license": "MIT",
     "authors": [
@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-0": {
-            "IamProgrammerlk/IamFirebasePHP": "IamSource/IamFirebasePHP"
+            "IamProgrammerlk\\IamGitHubTester": "IamSource/IamGitHubTester"
         }
     }
 }
