@@ -10,7 +10,7 @@
   
 if (version_compare(PHP_VERSION, '5.4.0', '<')) 
 {
-    throw new Exception('The Firebase SDK requires PHP version 5.4 or higher.');
+    throw new Exception('Requires PHP version 5.4 or higher.');
 }
 
 /**
