@@ -1,0 +1,70 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "0bdc53183caa4f3c513d45218143be9f",
+    "content-hash": "869d2f5f61e815e7e44dfdc8e2c4061b",
+    "packages": [
+        {
+            "name": "iamprogrammerlk/iamgithubcomposertester",
+            "version": "16.04.22.14",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/IamProgrammerlk/IamGitHubComposerTester.git",
+                "reference": "8755c500a39227ddf9a7e7c2c059d39c8ca44257"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/IamProgrammerlk/IamGitHubComposerTester/zipball/8755c500a39227ddf9a7e7c2c059d39c8ca44257",
+                "reference": "8755c500a39227ddf9a7e7c2c059d39c8ca44257",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "IamProgrammerlk\\IamGitHubComposerTester\\": "IamSource/IamProgrammerlk/IamGitHubComposerTester"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "IamProgrammerlk",
+                    "email": "iamprogrammerlk@gmail.com",
+                    "homepage": "https://iamprogrammerlk.blogspot.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Creating your very own Composer Package - Example Repository by IamProgrammerlk",
+            "homepage": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+            "keywords": [
+                "IamGitHubComposerTester",
+                "composer",
+                "github",
+                "iamprogrammerlk",
+                "test"
+            ],
+            "time": "2016-04-22 13:18:36"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.3.0"
+    },
+    "platform-dev": []
+}

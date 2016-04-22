@@ -14,7 +14,8 @@
         }
     ],
     "require": {
-        "php": ">=5.3.0"
+        "php": ">=5.3.0",
+        "iamprogrammerlk/iamgithubcomposertester": "16.04.22.14"
     },
 	"autoload": {
         "psr-4": {

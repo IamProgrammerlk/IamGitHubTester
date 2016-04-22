@@ -8,7 +8,7 @@ class IamGitHubTester
     public function __construct(array $IamConfig = [])
     {
 
-		echo "IamGitHubTester";
+		echo '<br>I am from "IamProgrammerlk\IamGitHubTester\IamGitHubTester"';
 		
     }
 	
