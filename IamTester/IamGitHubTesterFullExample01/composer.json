@@ -1,0 +1,7 @@
+{
+    "require": {
+        "iamprogrammerlk/iamgithubtester": "16.04.22.14",
+        "weaverryan/derp-dangerzone": "dev-master",
+        "iamprogrammerlk/iamgithubcomposertester": "16.04.22.14"
+    }
+}

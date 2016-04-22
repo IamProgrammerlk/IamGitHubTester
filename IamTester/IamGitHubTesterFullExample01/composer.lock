@@ -1,0 +1,137 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "40f3f4a572b3f8a1e88235d2fe43c4d4",
+    "content-hash": "ed840144d4ff6e4ce8bcffcdbf653cc4",
+    "packages": [
+        {
+            "name": "iamprogrammerlk/iamgithubcomposertester",
+            "version": "16.04.22.14",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/IamProgrammerlk/IamGitHubComposerTester.git",
+                "reference": "8755c500a39227ddf9a7e7c2c059d39c8ca44257"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/IamProgrammerlk/IamGitHubComposerTester/zipball/8755c500a39227ddf9a7e7c2c059d39c8ca44257",
+                "reference": "8755c500a39227ddf9a7e7c2c059d39c8ca44257",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "require-dev": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "IamProgrammerlk\\IamGitHubComposerTester\\": "IamSource/IamProgrammerlk/IamGitHubComposerTester"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "IamProgrammerlk",
+                    "email": "iamprogrammerlk@gmail.com",
+                    "homepage": "https://iamprogrammerlk.blogspot.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Creating your very own Composer Package - Example Repository by IamProgrammerlk",
+            "homepage": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+            "keywords": [
+                "IamGitHubComposerTester",
+                "composer",
+                "github",
+                "iamprogrammerlk",
+                "test"
+            ],
+            "time": "2016-04-22 13:18:36"
+        },
+        {
+            "name": "iamprogrammerlk/iamgithubtester",
+            "version": "16.04.22.14",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/IamProgrammerlk/IamGitHubTester.git",
+                "reference": "a5133f868c3f13ee4aacc87db404d49fbcdc76e5"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/IamProgrammerlk/IamGitHubTester/zipball/a5133f868c3f13ee4aacc87db404d49fbcdc76e5",
+                "reference": "a5133f868c3f13ee4aacc87db404d49fbcdc76e5",
+                "shasum": ""
+            },
+            "require": {
+                "iamprogrammerlk/iamgithubcomposertester": "16.04.22.14",
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "IamProgrammerlk\\IamGitHubTester\\": "IamSource/IamProgrammerlk/IamGitHubTester"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "IamProgrammerlk",
+                    "email": "iamprogrammerlk@gmail.com",
+                    "homepage": "https://iamprogrammerlk.blogspot.com",
+                    "role": "Developer"
+                }
+            ],
+            "description": "Creating your very own Composer Package - Example Testing Repository by IamProgrammerlk",
+            "homepage": "https://github.com/IamProgrammerlk/IamGitHubTester",
+            "keywords": [
+                "iamgithubtester",
+                "iamprogrammerlk"
+            ],
+            "time": "2016-04-22 14:08:24"
+        },
+        {
+            "name": "weaverryan/derp-dangerzone",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/weaverryan/derp-dangerzone.git",
+                "reference": "228f91869b25e3e6a865f34eb99a256565fcc2b1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/weaverryan/derp-dangerzone/zipball/228f91869b25e3e6a865f34eb99a256565fcc2b1",
+                "reference": "228f91869b25e3e6a865f34eb99a256565fcc2b1",
+                "shasum": ""
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "Weaverryan\\DangerZone": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "time": "2013-03-26 23:54:28"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "weaverryan/derp-dangerzone": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}

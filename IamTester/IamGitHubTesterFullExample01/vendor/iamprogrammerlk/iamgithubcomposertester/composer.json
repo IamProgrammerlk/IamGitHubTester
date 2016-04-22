@@ -1,0 +1,40 @@
+{
+	"name": "iamprogrammerlk/iamgithubcomposertester",
+	"description": "Creating your very own Composer Package - Example Repository by IamProgrammerlk",
+	"keywords": ["github", "composer", "test", "iamprogrammerlk", "iamgithubcomposertester"],
+	"type": "library",
+	"homepage": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+	"url": "https://github.com/iamprogrammerlk/iamgithubcomposertester",
+	"license": "MIT",
+    "authors": [
+        {
+            "name": "IamProgrammerlk",
+            "email": "iamprogrammerlk@gmail.com",
+			"homepage": "https://iamprogrammerlk.blogspot.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+	"require-dev": {
+		"php": ">=5.4.0"
+    },
+	"autoload": {
+		"psr-4" : {
+			"IamProgrammerlk\\IamGitHubComposerTester\\" : "IamSource/IamProgrammerlk/IamGitHubComposerTester"
+		}
+	},
+	"autoload-dev": {
+		"psr-4" : {
+			"IamProgrammerlk\\IamGitHubComposerTester\\" : "IamSource/IamProgrammerlk/IamGitHubComposerTester"
+		}
+    },
+    "suggest": {
+	
+    },	
+	"extra": {
+
+    }
+}
+
